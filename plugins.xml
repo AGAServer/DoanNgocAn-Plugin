@@ -6,6 +6,6 @@
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <homepage>https://zalo.me/0856521139</homepage>
     <author_name>Đoàn Ngọc Ấn</author_name>
-    <download_url>https://download1650.mediafire.com/0l1xpqtm8zsgtgc61q3TuZEqbIwZJTAcEdGnAvEY9VI9x3mdXQBwmqJzOQC7KHtMh6m3KxUmoDVMtu82hE7b-mJAGK0yAM1fgR-u30y_9YT13IRfAQP27aSvpz_uLIe5GkT_tLBfvON9YHvW0m1xpHYSh8qYHbfqKerkkn7PXdzM/dsyhchaxfm474tp/doan_ngoc_an.7z</download_url>
+    <download_url>https://github.com/AGAServer/DoanNgocAn-Plugin/releases/download/v1.0/doan_ngoc_an_plugin.zip>
   </pyqgis_plugin>
 </plugins>
