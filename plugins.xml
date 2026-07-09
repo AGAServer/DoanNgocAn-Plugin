@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
-  <pyqgis_plugin name="Doan Ngoc An Plugin" version="1.0">
+  <pyqgis_plugin name="DoanNgocAnProject" version="1.0">
     <description>Bộ công cụ QGIS Tự động hóa Bản đồ và Dữ liệu Lâm nghiệp. Tác giả: Đoàn Ngọc Ấn.</description>
     <version>1.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
